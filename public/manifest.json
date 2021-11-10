@@ -1,0 +1,12 @@
+{
+  "manifest_version":2,
+  "name": "Tic-Tac-Toe",
+  "author":"Dhruv",
+  "version":"1.0.1",
+  "description":"Undefeatable Intelligent Tic-Tac-Toe. Think youn can defeat him, give it a try.",
+  "browser_action":{
+    "default_popup":"index.html",
+    "default_icon":"tictactoe_logo.png"
+  }
+}
+

@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+table td{
+    border: 2px solid saddlebrown;
+    background-color: rgb(209, 245, 151);
+    width: 120px;
+    height: 120px;
+    vertical-align: middle;
+}
